@@ -37,11 +37,14 @@ $ npm install
 ## Running the app
 
 ```bash
-# development
-$ npm run start
+# run docker
+$ npm run compose
 
 # watch mode
 $ npm run start:dev
+
+# development
+$ npm run start
 
 # production mode
 $ npm run start:prod
